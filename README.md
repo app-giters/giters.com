@@ -1,2 +1,2 @@
 # giters
-https://giters.com/giters-hub
+https://giters.com/github
